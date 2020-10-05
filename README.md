@@ -12,11 +12,10 @@ Here are a few benefits you get out of the box:
 
 ## System Requirements
 
-- [git][git] v2.13 or greater
-- [NodeJS][node] v10.13 or greater
-- [npm][npm] v6 or greater
-- [node][node] v12.13.4 or greater
-- [nodemon][nodemon]
+- git v2.13 or greater
+- NodeJS v10.13 or greater
+- npm v6 or greater
+- nodemon
 
 All of these must be available in your `PATH`. To verify things are set up
 properly, you can run this:
