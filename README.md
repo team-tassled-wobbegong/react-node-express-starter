@@ -50,7 +50,7 @@ should be able to just run a few commands to get set up:
 This will install all of the project dependencies.
 
 `npm run dev`
-This should start up your Express server on port 3000 and React client on port 8080.
+This should start up your Express server on port 3000 and React client on port 8080. Remember this spins up your server in development mode and requires nodemon in order to run.
 
 Check server logs for any errors on start up. If you think we missed something feel free to open an issue on our
 main repository.
