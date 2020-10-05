@@ -9,6 +9,7 @@ Here are a few benefits you get out of the box:
 - Custom Webpack Configuration
 - Meets all NodeJS and Express current security best practices
 - Pre-configured ESLint and Prettier
+- Express default error handling
 
 ## System Requirements
 
